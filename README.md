@@ -1,5 +1,12 @@
 # odu256
 
+---
+|  ||
+|  |
+||  |
+|  |
+---
+
 **odu256** is a small experimental project that models the combinatorial structure of the Ifá divination system and uses Retrieval-Augmented Generation (RAG) to generate interpretations grounded in Odu corpus literature.
 
 The Ifá system, from the Yoruba religious tradition, encodes signs using two columns of four marks. Each mark appears in one of two forms, producing 256 possible configurations. These correspond to the **256 Odu**, which form the foundation of the Ifá literary corpus.
@@ -29,7 +36,13 @@ It serves mainly as a technical exploration and portfolio example of building a 
 Example pipeline
 
 ```
-random grid
+random grid, e.g.
+
+|  ||
+|  |
+||  |
+|  |
+
     ↓
 binary encoding
     ↓
