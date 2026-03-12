@@ -1,11 +1,11 @@
 # odu256
 
----
-|  ||
-|  |
-||  |
-|  |
----
+```
+> |  ||
+> |  |
+> ||  |
+> |  |
+```
 
 **odu256** is a small experimental project that models the combinatorial structure of the Ifá divination system and uses Retrieval-Augmented Generation (RAG) to generate interpretations grounded in Odu corpus literature.
 
