@@ -48,6 +48,3 @@ LLM generates an interpretation
 
 Ifá divination is part of a living religious tradition practiced by trained priests and communities worldwide.
 This project is not a substitute for that practice and should be understood purely as a computational and educational experiment.
-
-Ifá divination is part of a living religious tradition practiced by trained priests and communities worldwide.
-This project is not a substitute for that practice and should be understood purely as a computational and educational experiment.
