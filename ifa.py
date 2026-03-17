@@ -33,7 +33,7 @@ def get_stroke_from_num(num):
     elif num == 1:
         return '||'
     else:
-        raise Exception("invalid num")
+        raise ValueError("invalid num")
 
 def render_odu_grid(grid):
     ifa = ''
@@ -91,3 +91,6 @@ print(l_bits, r_bits)
 print(f"{MAJOR_ODU[l_idx]}-{MAJOR_ODU[r_idx]}")
 print()
 print(f"ID:{get_int_id_from_grid(grid)}")
+
+with open('699831075-Ifa-A-Complete-Divination.txt') as file:
+    print(file.readlines())
